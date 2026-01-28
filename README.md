@@ -17,7 +17,6 @@
 ---
 
 ## Acceptance criteria
-## Acceptance criteria
 
 - Побудовано всі три UML-діаграми:
     - Use Case Diagram
@@ -39,4 +38,4 @@
 
 [The ultimate guide to UML diagrams](https://miro.com/diagramming/what-is-a-uml-diagram/)
 
-
+[Master the basics of Lucidchart in 3 minutes](https://www.lucidchart.com/pages/tutorial/uml-use-case-diagram#section_4)
