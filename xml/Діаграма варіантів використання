@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Safari/605.1.15" version="29.2.9">
+  <diagram name="Сторінка-1" id="Fe8nv-5lYSlvcCEpTHnJ">
+    <mxGraphModel dx="1186" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T0a4UEGqYkrQQTdcepAk-55" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Система Атлас" vertex="1">
+          <mxGeometry height="616" width="280" x="258" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T0a4UEGqYkrQQTdcepAk-56" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" value="Новобранець" vertex="1">
+          <mxGeometry height="111" width="111" x="58" y="196" as="geometry" />
+        </mxCell>
+        <mxCell id="T0a4UEGqYkrQQTdcepAk-57" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" value="Ментор" vertex="1">
+          <mxGeometry height="69" width="69" x="79" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="T0a4UEGqYkrQQTdcepAk-58" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" value="Адміністатор/Психолог" vertex="1">
+          <mxGeometry height="188" width="188" x="20" y="364" as="geometry" />
+        </mxCell>
+        <mxCell id="T0a4UEGqYkrQQTdcepAk-59" parent="1" style="rounded=1;arcSize=20;strokeWidth=2" value="Вивчення Путівника" vertex="1">
+          <mxGeometry height="54" width="178" x="309" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="T0a4UEGqYkrQQTdcepAk-60" parent="1" style="rounded=1;arcSize=20;strokeWidth=2" value="Психологічна самодіагностика" vertex="1">
+          <mxGeometry height="78" width="230" x="283" y="271" as="geometry" />
+        </mxCell>
+        <mxCell id="T0a4UEGqYkrQQTdcepAk-61" parent="1" style="rounded=1;arcSize=20;strokeWidth=2" value="Симуляція &#39;Бойові кейси&#39;" vertex="1">
+          <mxGeometry height="54" width="213" x="291" y="399" as="geometry" />
+        </mxCell>
+        <mxCell id="T0a4UEGqYkrQQTdcepAk-62" parent="1" style="rounded=1;arcSize=20;strokeWidth=2" value="Чат з Ментором" vertex="1">
+          <mxGeometry height="54" width="146" x="325" y="503" as="geometry" />
+        </mxCell>
+        <mxCell id="T0a4UEGqYkrQQTdcepAk-63" parent="1" style="rounded=1;arcSize=20;strokeWidth=2" value="Керування базою знань" vertex="1">
+          <mxGeometry height="54" width="204" x="296" y="607" as="geometry" />
+        </mxCell>
+        <mxCell id="T0a4UEGqYkrQQTdcepAk-64" edge="1" parent="1" source="T0a4UEGqYkrQQTdcepAk-56" style="curved=0;startArrow=none;endArrow=none;exitX=1.01;exitY=0.04;entryX=0;entryY=0.5;rounded=0;" target="T0a4UEGqYkrQQTdcepAk-59" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T0a4UEGqYkrQQTdcepAk-65" edge="1" parent="1" source="T0a4UEGqYkrQQTdcepAk-56" style="curved=0;startArrow=none;endArrow=none;exitX=1.01;exitY=0.33;entryX=0.26;entryY=0;rounded=0;" target="T0a4UEGqYkrQQTdcepAk-60" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T0a4UEGqYkrQQTdcepAk-66" edge="1" parent="1" source="T0a4UEGqYkrQQTdcepAk-56" style="curved=0;startArrow=none;endArrow=none;exitX=0.85;exitY=1;entryX=0;entryY=0.5;rounded=0;" target="T0a4UEGqYkrQQTdcepAk-61" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T0a4UEGqYkrQQTdcepAk-67" edge="1" parent="1" source="T0a4UEGqYkrQQTdcepAk-56" style="curved=0;startArrow=none;endArrow=none;exitX=0.76;exitY=1;entryX=0;entryY=0.09;rounded=0;" target="T0a4UEGqYkrQQTdcepAk-62" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T0a4UEGqYkrQQTdcepAk-68" edge="1" parent="1" source="T0a4UEGqYkrQQTdcepAk-57" style="curved=0;startArrow=none;endArrow=none;exitX=1.01;exitY=0.11;entryX=0;entryY=0.9;rounded=0;" target="T0a4UEGqYkrQQTdcepAk-62" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T0a4UEGqYkrQQTdcepAk-69" edge="1" parent="1" source="T0a4UEGqYkrQQTdcepAk-58" style="curved=0;startArrow=none;endArrow=none;exitX=0.84;exitY=1;entryX=0;entryY=0.5;rounded=0;" target="T0a4UEGqYkrQQTdcepAk-63" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T0a4UEGqYkrQQTdcepAk-70" edge="1" parent="1" source="T0a4UEGqYkrQQTdcepAk-58" style="curved=0;startArrow=none;endArrow=none;exitX=1;exitY=0.08;entryX=0.017;entryY=0.923;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="T0a4UEGqYkrQQTdcepAk-60" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
